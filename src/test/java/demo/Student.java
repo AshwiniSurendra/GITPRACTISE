@@ -26,9 +26,9 @@ public class Student {
 		System.out.println("this is practice");
 	}
 	@Test
-	public void demo2()
+	public void demoAshwini()
 	{
-		System.out.println("hi");
+		System.out.println("hi ashu");
 	}
 	
 }
