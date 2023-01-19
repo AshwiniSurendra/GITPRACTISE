@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-19T11:15:47 IST" name="Default suite" finished-at="2023-01-19T11:15:47 IST" duration-ms="34">
+  <suite started-at="2023-01-19T11:19:19 IST" name="Default suite" finished-at="2023-01-19T11:19:19 IST" duration-ms="42">
     <groups>
     </groups>
-    <test started-at="2023-01-19T11:15:47 IST" name="Default test" finished-at="2023-01-19T11:15:47 IST" duration-ms="34">
+    <test started-at="2023-01-19T11:19:19 IST" name="Default test" finished-at="2023-01-19T11:19:19 IST" duration-ms="42">
       <class name="demo.Student">
-        <test-method signature="test1()[pri:0, instance:demo.Student@48fa0f47]" started-at="2023-01-19T11:15:47 IST" name="test1" finished-at="2023-01-19T11:15:47 IST" duration-ms="8" status="PASS">
+        <test-method signature="practice()[pri:0, instance:demo.Student@6dbb137d]" started-at="2023-01-19T11:19:19 IST" name="practice" finished-at="2023-01-19T11:19:19 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
+        </test-method> <!-- practice -->
       </class> <!-- demo.Student -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

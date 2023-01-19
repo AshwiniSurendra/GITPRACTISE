@@ -15,6 +15,11 @@ public class Student {
 		System.out.println("this is test");
 	}
 	@Test
+	public void practice()
+	{
+		System.out.println("this is practice");
+	}
+	@Test
 	public void demo2()
 	{
 		System.out.println("hi");
