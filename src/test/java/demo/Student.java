@@ -4,6 +4,12 @@ import org.testng.annotations.Test;
 
 public class Student {
 	@Test
+	public void test1()
+	{
+		System.out.println("ashwini");
+	}
+	
+	@Test
 	public void test()
 	{
 		System.out.println("this is test");
