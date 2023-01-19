@@ -18,7 +18,7 @@ public class Student {
 	}
 	
 	@Test
-	public void practice()
+	public void practice2()
 	{
 		System.out.println("this is practice");
 	}
