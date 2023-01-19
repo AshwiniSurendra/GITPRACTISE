@@ -15,6 +15,12 @@ public class Student {
 		System.out.println("this is test");
 	}
 	@Test
+	public void practice1()
+	{
+		System.out.println("this is ashwini merging branch");
+	}
+	
+	@Test
 	public void practice()
 	{
 		System.out.println("this is practice");
