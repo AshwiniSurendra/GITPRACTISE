@@ -20,7 +20,7 @@ public class Student {
 	@Test
 	public void practice2()
 	{
-		System.out.println("this is practice");
+		System.out.println("this is practice2");
 	}
 	
 }
