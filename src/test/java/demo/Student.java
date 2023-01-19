@@ -30,10 +30,5 @@ public class Student {
 	{
 		System.out.println("hi");
 	}
-	@Test
-	public void demo1()
-	{
-		System.out.println("hai hello ello");
-	}
-
+	
 }
